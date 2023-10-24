@@ -46,14 +46,11 @@ public static List<String> readFile(String filename) {
 
 }
 */
-package main.java.com.cbfacademy.FileHandler;
+package com.cbfacademy.FileHandler;
 
 import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;
 import com.cbfacademy.Employee.Employee;
-import main.java.com.cbfacademy.FileHandler.JSONFileHandler;
-
-
 import java.io.IOException;
 import java.io.Reader;
 import java.nio.file.Files;
