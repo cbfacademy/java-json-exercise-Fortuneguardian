@@ -83,4 +83,7 @@ public class JSONFileHandler {
 
         return employees;
     }
+
+    public static void save(Employee employee, String filePathString) {
+    }
 }
